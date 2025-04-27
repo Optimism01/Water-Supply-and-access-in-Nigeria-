@@ -28,6 +28,7 @@ Water quality and treatment :
 
 ## Data Source
 The data for this study was collected through a questionnaire form prepared by my team and distributed to respondents across all the six geopolitical zones  in Nigeria.
+<a href="https://github.com/Optimism01/Water-Supply-and-access-in-Nigeria-/blob/main/Group6%20project%20last%20(3).xlsx"> download the data set </a>
 
 ## Methodology
 This was a team work where we explore the state of water accessibility and other related factors in Nigeria. We deliberated about our focus of analysis and we created a questionnaire which was sent out to people across Nigeria to fill. After data collection we performed data processing where we prepared the data for analysis. We analyzed the data and came to conclusion.
